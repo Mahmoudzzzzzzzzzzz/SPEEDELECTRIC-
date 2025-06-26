@@ -1,0 +1,8 @@
+speed-electric-agent/
+├── public/
+├── src/            ← your React app
+├── server/          ← new folder we're creating
+│   ├── server.js    ← backend code
+│   └── .env         ← stores Gmail credentials securely
+├── package.json
+└── ...
